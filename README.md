@@ -9,7 +9,7 @@
 
 ## WORK EXPERIENCE
 **Junior Developer @ Arcasan Software Pvt Ltd (_Jan 2023 - Jan 2024_)**
-- Optimized front-end by converting images to WebP, reducing bandwidth usage by 50% and improving mobile load times by 7%.
-- Developed a scalable customer analytics dashboard using Flask (Python) and Spring Boot (Java) with integrated RESTful APIs.
-- Improved transactional data handling performance by 20% through efficient API/database design and backend optimization.
-- Defined technical scope including API specs, data schemas, and access control, accelerating development and ensuring client alignment.
+- Enhanced front-end performance by converting high-resolution images to WebP format, resulting in over **50% reduction** in bandwidth usage and **7% faster load times** on mobile devices, improving overall user experience and responsiveness.
+- Designed and built a **scalable customer analytics dashboard** using **Flask (Python)** for quick prototyping and **Spring Boot (Java)** for robust backend services, integrating RESTful APIs and handling large-scale transactional data efficiently.
+- **Boosted system performance by 20%** through optimized database queries, structured data flow, and asynchronous processing, enabling real-time analytics and high-volume data management with minimal latency.
+- Defined the end-to-end technical scope of the dashboard, including **feature planning, API design, database schema development, and access control** ensuring strong client alignment and accelerating the development lifecycle.
