@@ -34,7 +34,7 @@
 - Engineered a **robust real-time summarization pipeline**, including user input validation, text preprocessing, token-length handling, and **full Gemini API integration**.
 - Enabled accurate, **end-to-end summarization for a wide range of video content**, enhancing accessibility and saving users time through efficient content distillation.
 
-Youtube Video Summarizer (_April 2025 - May 2025_)**   
+Density-Based Smart Traffic Light Controller (Jan 2025 - March 2025_)**   
 - Designed and implemented a **smart 4-way traffic signal system using ESP32** and HC-SR04 ultrasonic sensors to dynamically **adjust signal timings** based on real-time vehicle density.
 - Programmed adaptive traffic logic in Embedded C within the Arduino IDE, **employing signal-skipping algorithms** to minimize idle green phases and **reduce vehicle wait times**.
 - Integrated the system with the **Blynk IoT platform for real-time monitoring** and remote control, enabling smarter intersection management.
