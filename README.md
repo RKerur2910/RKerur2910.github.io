@@ -13,3 +13,16 @@
 - Designed and built a **scalable customer analytics dashboard** using **Flask (Python)** for quick prototyping and **Spring Boot (Java)** for robust backend services, integrating RESTful APIs and handling large-scale transactional data efficiently.
 - **Boosted system performance by 20%** through optimized database queries, structured data flow, and asynchronous processing, enabling real-time analytics and high-volume data management with minimal latency.
 - Defined the end-to-end technical scope of the dashboard, including **feature planning, API design, database schema development, and access control** ensuring strong client alignment and accelerating the development lifecycle.
+
+## INTERNSHIP EXPERIENCE  
+**Data Science Intern @ SmartKnower (_Jan 2022 - March 2022_)**
+- Developed an **unsupervised machine learning pipeline** using **K-Means clustering** in Python to identify potential credit default customers, working with 150k+ records after extensive data cleaning, feature engineering, and model tuning.
+- Performed **exploratory and predictive data analysis** using Pandas and NumPy, delivering insights that supported targeted credit risk mitigation strategies.
+- **Achieved 87% model accuracy** in identifying high-risk customer segments, improving early risk flagging and aiding business decision-making.
+- Created interactive **data visualizations** to present trends and patterns, and proposed marketing strategies to the Senior Analyst based on **clustering and segment analysis**.
+
+**Network Engineering Intern @ Visual Securities (_June 2021 - Sept 2021_)**
+- Conducted on-site assessments to identify optimal security monitoring points; installed **network switches** and configured **IP-based CCTV cameras across Tata Motors'** manufacturing assembly line.
+- Integrated IP cameras with **Network Video Recorders (NVRs)** over a **secure VLAN** using **SNMP routing**, enabling **real-time remote access** while ensuring robust protection against unauthorized intrusion.
+- Implemented **IP whitelisting** and **multi-factor authentication (MFA) protocols** for remote monitoring, enhancing surveillance system security by 15%.
+- Collaborated with the IT and security teams to maintain consistent network uptime and **secure video transmission**, contributing to streamlined **surveillance operations** in a high-throughput industrial environment.
