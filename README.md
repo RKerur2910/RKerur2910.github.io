@@ -27,7 +27,7 @@
 - Implemented **IP whitelisting** and **multi-factor authentication (MFA) protocols** for remote monitoring, enhancing surveillance system security by 15%.
 - Collaborated with the IT and security teams to maintain consistent network uptime and **secure video transmission**, contributing to streamlined **surveillance operations** in a high-throughput industrial environment.
 
-## Projects 
+## PROJECTS 
 **Youtube Video Summarizer (April 2025 - May 2025_)**    
 - Developed a **Streamlit web application** that summarizes YouTube videos using **Google’s Gemini LLM**, offering fast and readable multi-paragraph summaries.
 - Built a **hybrid transcription system** that prioritized YouTubeTranscriptAPI and seamlessly fell back to **OpenAI Whisper** for local audio transcription when captions were unavailable, ensuring complete video coverage.
