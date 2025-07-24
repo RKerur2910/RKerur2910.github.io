@@ -28,7 +28,7 @@
 - Collaborated with the IT and security teams to maintain consistent network uptime and **secure video transmission**, contributing to streamlined **surveillance operations** in a high-throughput industrial environment.
 
 ## PROJECTS 
-**Youtube Video Summarizer (April 2025 - May 2025_)**    
+**Youtube Video Summarizer (April 2025 - May 2025)**    
 - Developed a **Streamlit web application** that summarizes YouTube videos using **Google’s Gemini LLM**, offering fast and readable multi-paragraph summaries.
 - Built a **hybrid transcription system** that prioritized YouTubeTranscriptAPI and seamlessly fell back to **OpenAI Whisper** for local audio transcription when captions were unavailable, ensuring complete video coverage.
 - Engineered a **robust real-time summarization pipeline**, including user input validation, text preprocessing, token-length handling, and **full Gemini API integration**.
