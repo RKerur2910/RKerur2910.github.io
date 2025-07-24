@@ -4,11 +4,8 @@
 ### Technical Skills: C, C++, Python, Java, SQL, Real Time Operating Systems (RTOS), Microcontroller Programming, Low-Level Hardware Interface
 
 ## Education
--**M.S., Computer Engineering** |         CSU Sacramento (_May 2026_)								       		
+- **MS in Computer Engineering**, California State University, Sacramento (Expected May 2026)							       		
 -**B.S., Electronics and Telecommunication**	| SPPU (_May 2023_)
-- **MS in Computer Engineering**, California State University, Sacramento (Expected May 2026)
-    - **MS in Computer Engineering**, California State University...
-
 
 ## WORK EXPERIENCE
 **Junior Developer @ Arcasan Software Pvt Ltd (_Jan 2023 - Jan 2024_)**
