@@ -5,8 +5,8 @@
 
 ## Education
 - **MS in Computer Engineering**, California State University, Sacramento (Expected May 2026)							       		
--**B.S., Electronics and Telecommunication**	| SPPU (_May 2023_)
-
+- **BS in Electronics and Telecommunication Engineering**, SPPU, (May 2023)
+- 
 ## WORK EXPERIENCE
 **Junior Developer @ Arcasan Software Pvt Ltd (_Jan 2023 - Jan 2024_)**
 - Enhanced front-end performance by converting high-resolution images to WebP format, resulting in over **50% reduction** in bandwidth usage and **7% faster load times** on mobile devices, improving overall user experience and responsiveness.
