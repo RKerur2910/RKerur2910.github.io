@@ -4,7 +4,7 @@
 ### Technical Skills: C, C++, Python, Java, SQL, Real Time Operating Systems (RTOS), Microcontroller Programming, Low-Level Hardware Interface
 
 ## Education
-- **M.S., Computer Engineering** |         CSU Sacramento (_May 2026_)								       		
+-**M.S., Computer Engineering** |         CSU Sacramento (_May 2026_)								       		
 - **B.S., Electronics and Telecommunication**	| SPPU (_May 2023_)	 			        		
 
 ## WORK EXPERIENCE
