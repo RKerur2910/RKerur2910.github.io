@@ -35,6 +35,17 @@
 - Collaborated with the IT and security teams to maintain consistent network uptime and **secure video transmission**, contributing to streamlined **surveillance operations** in a high-throughput industrial environment.
 
 ## PROJECTS 
+
+**AI Research and Sound Bite Summarization Agent (Sept 2025 – Oct 2025)**
+- Built an AI automation agent that streamlines research and summarization by generating concise, topic-specific executive summaries and delivering them as audio files directly to users’ inboxes.
+- Developed a fully automated workflow connecting topic form submissions, Perplexity API–driven research, OpenAI summarization models, and TTS synthesis within the n8n automation framework.
+- Debugged and optimized the pipeline by correcting node mappings, implementing text chunking logic to bypass length limits, and refining LLM prompts—resulting in a robust, scalable, and production-ready system with consistent audio output.
+  
+**Food Ordering Ecommerce Web Application (August 2025 - Sept 2025)**
+- Developed a full-stack web application for a local food delivery business, featuring a responsive product catalog, detailed item pages, and a real-time updating shopping cart to enhance ordering efficiency.
+- Implemented secure RESTful APIs in Flask and integrated Stripe Checkout to process payments, capture customer data, and manage pickup and delivery scheduling—resulting in improved inventory tracking and reduced food wastage.
+- Enhanced the front-end experience with interactive elements such as toast notifications, a dynamic mini-cart dropdown, and a free-delivery threshold banner, creating a smooth, production-grade checkout flow.
+
 **Youtube Video Summarizer (April 2025 - May 2025)**    
 - Developed a **Streamlit web application** that summarizes YouTube videos using **Google’s Gemini LLM**, offering fast and readable multi-paragraph summaries.
 - Built a **hybrid transcription system** that prioritized YouTubeTranscriptAPI and seamlessly fell back to **OpenAI Whisper** for local audio transcription when captions were unavailable, ensuring complete video coverage.
