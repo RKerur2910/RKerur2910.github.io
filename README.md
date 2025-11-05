@@ -9,11 +9,12 @@
   
 ## WORK EXPERIENCE
 
-**Research Assistant - EEG and Neuroprosthetic Signal Processing** (_Oct 2025 - Present)
+**Research Assistant - EEG and Neuroprosthetic Signal Processing (_Oct 2025 - Present)**
 - Implemented an automated classification pipeline that processes EEG signals to detect neurological disorders including epilepsy, autism spectrum disorder, and Parkinson's disease.
 - Built multi-domain feature extraction methods including Power Spectral Density (PSD), time–frequency, and cyclostationary analyses integrated with CNN, RNN, and SVM models for accurate event classification.
 - Designed a closed-loop detection framework integrating real-time EEG signal acquisition, adaptive feature extraction, machine learning based event detection, and feedback control for neuroprosthetic and implantable electrode applications.
 - Prepared and revised the thesis proposal and supporting documentation, incorporated faculty feedback, updated methodology and figures, and researched signal-processing and classification techniques through IEEE Xplore, CRCNS publications, and related neural-interface studies.
+  
 **Junior Developer @ Arcasan Software Pvt Ltd (_Jan 2023 - Jan 2024_)**
 - Enhanced front-end performance by converting high-resolution images to WebP format, resulting in over **50% reduction** in bandwidth usage and **7% faster load times** on mobile devices, improving overall user experience and responsiveness.
 - Designed and built a **scalable customer analytics dashboard** using **Flask (Python)** for quick prototyping and **Spring Boot (Java)** for robust backend services, integrating RESTful APIs and handling large-scale transactional data efficiently.
