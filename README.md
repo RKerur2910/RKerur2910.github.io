@@ -1,5 +1,5 @@
 # Computer Engineering Graduate Student | Embedded Systems and Intelligent Hardware Enthusiast
-[LinkedIn](https://www.linkedin.com/in/riya-kerur/)
+[LinkedIn](https://www.linkedin.com/in/riya-kerur/) [Portfolio](https://rkerur2910.github.io/)
 
 ### Technical Skills: C, C++, Python, Java, SQL, Real Time Operating Systems (RTOS), Microcontroller Programming, Low-Level Hardware Interface
 
