@@ -1,4 +1,4 @@
-# Computer Engineering Graduate Student | Embedded Systems and Intelligent Hardware Enthusiast
+# Computer Engineering Graduate Student | Exploring Machine Learning, Computer Vision, and Data Science
 [LinkedIn](https://www.linkedin.com/in/riya-kerur/) [Portfolio](https://rkerur2910.github.io/)
 
 ### Technical Skills: C, C++, Python, Java, SQL, Real Time Operating Systems (RTOS), Microcontroller Programming, Low-Level Hardware Interface
@@ -35,6 +35,14 @@
 - Collaborated with the IT and security teams to maintain consistent network uptime and **secure video transmission**, contributing to streamlined **surveillance operations** in a high-throughput industrial environment.
 
 ## PROJECTS 
+
+**Multimodal AI Video Assistant (Oct 2025 - Nov 2025)**
+- Developed a multimodal AI video-analysis system that combines visual frame extraction and audio transcription from local
+uploads to deliver structured, data-rich insights through an interactive Streamlit interface.
+- Optimized media processing performance by integrating FFmpeg and OpenCV for efficient audio extraction and frame
+sampling, while implementing advanced session state management to ensure zero data loss during file operations.
+- Achieved robust dynamic classification of videos into six categories, enabling specialized visual-only analysis for silent content
+and generating downloadable text-to-speech summaries for user-ready insights.
 
 **AI Research and Sound Bite Summarization Agent (Sept 2025 – Oct 2025)**
 - Built an AI automation agent that streamlines research and summarization by generating concise, topic-specific executive summaries and delivering them as audio files directly to users’ inboxes.
